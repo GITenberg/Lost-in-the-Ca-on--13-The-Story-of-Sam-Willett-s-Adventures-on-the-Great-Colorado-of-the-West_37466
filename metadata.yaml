@@ -1,0 +1,43 @@
+_repo: Lost-in-the-Ca-on--13-The-Story-of-Sam-Willett-s-Adventures-on-the-Great-Colorado-of-the-West_37466
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Calhoun, A. R. (Alfred Rochefort)
+    aliases:
+    - Calhoun, Alfred Rochefort
+    - Rochefort, Alfred
+    - Calhoun, Alfred R.
+    birthdate: 1844
+    gutenberg_agent_id: '1981'
+    url: http://www.gutenberg.org/2009/agents/1981
+description: ''
+gutenberg_issued: '2011-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37466'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+- !lcsh 'Colorado -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Colorado River (Colo.-Mexico) -- Juvenile fiction'
+- !lcsh 'Western stories'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Outdoor life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Hunting -- Juvenile fiction'
+- !lcsh 'Natural history -- Juvenile fiction'
+tableOfContents: Lost in the cañon -- Lost -- Fate of an entrapped bear -- A fight
+  in the woods.
+title: "Lost in the Cañon\r\nThe Story of Sam Willett's Adventures on the Great Colorado\
+  \ of the West"
+url: http://www.gutenberg.org/ebooks/37466
