@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '1981'
     url: http://www.gutenberg.org/2009/agents/1981
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37466#Lost-in-the-Ca-on--13-The-Story-of-Sam-Willett-s-Adventures-on-the-Great-Colorado-of-the-West
 gutenberg_issued: '2011-09-17'
 gutenberg_type: Text
 identifiers:
